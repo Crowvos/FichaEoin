@@ -43,6 +43,17 @@ const data = {
       defect: 1,
       area: 'Alvo',
     },
+    {
+      name: 'AR-15',
+      type: 'Arma',
+      damage: '1d8+2',
+      numCurrent: 30,
+      numMax: 30,
+      attack: '2 tiros',
+      reach: '90 m',
+      defect: 1,
+      area: 'Alvo',
+    },
   ],
   attributes: [
     {
